@@ -1,0 +1,168 @@
+[
+     {
+    "edge_id": "E000011",
+    "from_node_id": "OBL:DPDP-011",
+    "to_node_id": "EVD:EV-04",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000012",
+    "from_node_id": "OBL:DPDP-012",
+    "to_node_id": "EVD:EV-04",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000013",
+    "from_node_id": "OBL:DPDP-013",
+    "to_node_id": "EVD:EV-04",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000014",
+    "from_node_id": "OBL:DPDP-013",
+    "to_node_id": "EVD:EV-09",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000015",
+    "from_node_id": "OBL:DPDP-014",
+    "to_node_id": "EVD:EV-03",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000016",
+    "from_node_id": "OBL:DPDP-014",
+    "to_node_id": "EVD:EV-04",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000017",
+    "from_node_id": "OBL:DPDP-015",
+    "to_node_id": "EVD:EV-06",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000018",
+    "from_node_id": "OBL:DPDP-016",
+    "to_node_id": "EVD:EV-06",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000019",
+    "from_node_id": "OBL:DPDP-017",
+    "to_node_id": "EVD:EV-06",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000020",
+    "from_node_id": "OBL:DPDP-018",
+    "to_node_id": "EVD:EV-06",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+
+  {
+    "edge_id": "E000021",
+    "from_node_id": "OBL:DPDP-019",
+    "to_node_id": "EVD:EV-06",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000022",
+    "from_node_id": "OBL:DPDP-019",
+    "to_node_id": "EVD:EV-08",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+  {
+    "edge_id": "E000023",
+    "from_node_id": "OBL:DPDP-020",
+    "to_node_id": "EVD:EV-06",
+    "relationship": "REQUIRES_EVIDENCE",
+    "required": true
+  },
+
+  {
+    "edge_id": "E000065",
+    "from_node_id": "OBL:DPDP-011",
+    "to_node_id": "CIT:DPDP-011",
+    "relationship": "SUPPORTED_BY",
+    "citation_required": true
+  },
+  {
+    "edge_id": "E000066",
+    "from_node_id": "OBL:DPDP-012",
+    "to_node_id": "CIT:DPDP-012",
+    "relationship": "SUPPORTED_BY",
+    "citation_required": true
+  },
+  {
+    "edge_id": "E000067",
+    "from_node_id": "OBL:DPDP-015",
+    "to_node_id": "CIT:DPDP-015",
+    "relationship": "SUPPORTED_BY",
+    "citation_required": true
+  },
+  {
+    "edge_id": "E000068",
+    "from_node_id": "OBL:DPDP-019",
+    "to_node_id": "CIT:DPDP-019",
+    "relationship": "SUPPORTED_BY",
+    "citation_required": true
+  },
+
+  {
+    "edge_id": "E000076",
+    "from_node_id": "OBL:DPDP-013",
+    "to_node_id": "CIT:DPDP-013",
+    "relationship": "SUPPORTED_BY",
+    "citation_required": true
+  },
+  {
+    "edge_id": "E000077",
+    "from_node_id": "OBL:DPDP-014",
+    "to_node_id": "CIT:DPDP-014",
+    "relationship": "SUPPORTED_BY",
+    "citation_required": true
+  },
+  {
+    "edge_id": "E000078",
+    "from_node_id": "OBL:DPDP-016",
+    "to_node_id": "CIT:DPDP-016",
+    "relationship": "SUPPORTED_BY",
+    "citation_required": true
+  },
+  {
+    "edge_id": "E000079",
+    "from_node_id": "OBL:DPDP-017",
+    "to_node_id": "CIT:DPDP-017",
+    "relationship": "SUPPORTED_BY",
+    "citation_required": true
+  },
+  {
+    "edge_id": "E000080",
+    "from_node_id": "OBL:DPDP-018",
+    "to_node_id": "CIT:DPDP-018",
+    "relationship": "SUPPORTED_BY",
+    "citation_required": true
+  },
+  {
+    "edge_id": "E000081",
+    "from_node_id": "OBL:DPDP-020",
+    "to_node_id": "CIT:DPDP-020",
+    "relationship": "SUPPORTED_BY",
+    "citation_required": true
+  }
+
+
+]

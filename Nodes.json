@@ -1,0 +1,285 @@
+ [
+ {
+    "node_id": "OBL:DPDP-011",
+    "node_type": "OBLIGATION",
+    "key": "DPDP-011",
+    "title": "Update privacy notice to include DPDP disclosures",
+    "category": "Transparency",
+    "risk_level": "high",
+    "applies_if": "any personal data processing exists",
+    "audit_pack_section": "5. Transparency & Notices",
+    "version": "1.0",
+    "effective_date": "2025-01-01"
+  },
+
+   {
+    "node_id": "OBL:DPDP-012",
+    "node_type": "OBLIGATION",
+    "key": "DPDP-012",
+    "title": "Ensure privacy notice includes grievance redressal mechanism and contact",
+    "category": "Transparency",
+    "risk_level": "high",
+    "applies_if": "any personal data processing exists",
+    "audit_pack_section": "5. Transparency & Notices",
+    "version": "1.0",
+    "effective_date": "2025-01-01"
+  },
+
+    {
+    "node_id": "OBL:DPDP-013",
+    "node_type": "OBLIGATION",
+    "key": "DPDP-013",
+    "title": "Disclose categories of third parties and sharing purposes",
+    "category": "Transparency",
+    "risk_level": "high",
+    "applies_if": "personal data shared with vendors/partners",
+    "audit_pack_section": "5. Transparency & Notices",
+    "version": "1.0",
+    "effective_date": "2025-01-01"
+  },
+
+  {
+    "node_id": "OBL:DPDP-014",
+    "node_type": "OBLIGATION",
+    "key": "DPDP-014",
+    "title": "Implement layered notice (short + full) for improved transparency",
+    "category": "Transparency",
+    "risk_level": "medium",
+    "applies_if": "consent UX exists",
+    "audit_pack_section": "5. Transparency & Notices",
+    "version": "1.0",
+    "effective_date": "2025-01-01"
+  },
+
+  {
+    "node_id": "OBL:DPDP-015",
+    "node_type": "OBLIGATION",
+    "key": "DPDP-015",
+    "title": "Provide channel for Data Principal rights requests (email/portal)",
+    "category": "Rights",
+    "risk_level": "high",
+    "applies_if": "any personal data processing exists",
+    "audit_pack_section": "6. Rights Management",
+    "version": "1.0",
+    "effective_date": "2025-01-01"
+  },
+
+  {
+    "node_id": "OBL:DPDP-016",
+    "node_type": "OBLIGATION",
+    "key": "DPDP-016",
+    "title": "Define identity verification process for rights requests",
+    "category": "Rights",
+    "risk_level": "high",
+    "applies_if": "rights request channel exists",
+    "audit_pack_section": "6. Rights Management",
+    "version": "1.0",
+    "effective_date": "2025-01-01"
+  },
+
+  {
+    "node_id": "OBL:DPDP-017",
+    "node_type": "OBLIGATION",
+    "key": "DPDP-017",
+    "title": "Create response template for access requests",
+    "category": "Rights",
+    "risk_level": "medium",
+    "applies_if": "rights request channel exists",
+    "audit_pack_section": "6. Rights Management",
+    "version": "1.0",
+    "effective_date": "2025-01-01"
+  },
+
+  {
+    "node_id": "OBL:DPDP-018",
+    "node_type": "OBLIGATION",
+    "key": "DPDP-018",
+    "title": "Provide correction/update mechanism for inaccurate data",
+    "category": "Rights",
+    "risk_level": "medium",
+    "applies_if": "user accounts/profile data exists",
+    "audit_pack_section": "6. Rights Management",
+    "version": "1.0",
+    "effective_date": "2025-01-01"
+  },
+
+  {
+    "node_id": "OBL:DPDP-019",
+    "node_type": "OBLIGATION",
+    "key": "DPDP-019",
+    "title": "Provide erasure workflow where retention not required; maintain logs",
+    "category": "Rights",
+    "risk_level": "high",
+    "applies_if": "personal data stored with identifiers",
+    "audit_pack_section": "6. Rights Management",
+    "version": "1.0",
+    "effective_date": "2025-01-01"
+  },
+
+  {
+    "node_id": "OBL:DPDP-020",
+    "node_type": "OBLIGATION",
+    "key": "DPDP-020",
+    "title": "Handle nominee requests for Data Principal",
+    "category": "Rights",
+    "risk_level": "low",
+    "applies_if": "user accounts exist",
+    "audit_pack_section": "6. Rights Management",
+    "version": "1.0",
+    "effective_date": "2025-01-01"
+  },
+
+  {
+    "node_id": "EVD:EV-03",
+    "node_type": "EVIDENCE_TYPE",
+    "key": "EV-03",
+    "title": "Consent Notice (Short)",
+    "format": "Doc",
+    "description": "Short / layered consent notice text shown to users at collection.",
+    "version": "1.0"
+  },
+  {
+    "node_id": "EVD:EV-04",
+    "node_type": "EVIDENCE_TYPE",
+    "key": "EV-04",
+    "title": "Privacy Policy (Full)",
+    "format": "URL/PDF",
+    "description": "Published privacy policy including DPDP-required disclosures, grievance mechanism, vendor categories, retention, rights.",
+    "version": "1.0"
+  },
+  {
+    "node_id": "EVD:EV-06",
+    "node_type": "EVIDENCE_TYPE",
+    "key": "EV-06",
+    "title": "Rights Request SOP + Templates",
+    "format": "Doc/PDF",
+    "description": "SOP for receiving/validating/fulfilling rights requests + response templates and forms.",
+    "version": "1.0"
+  },
+  {
+    "node_id": "EVD:EV-08",
+    "node_type": "EVIDENCE_TYPE",
+    "key": "EV-08",
+    "title": "Deletion Workflow Logs",
+    "format": "CSV/Screens",
+    "description": "Evidence of deletion / erasure workflows and logs demonstrating execution and traceability.",
+    "version": "1.0"
+  },
+
+  {
+    "node_id": "EVD:EV-09",
+    "node_type": "EVIDENCE_TYPE",
+    "key": "EV-09",
+    "title": "Vendor Register",
+    "format": "Spreadsheet",
+    "description": "Register of processors/sub-processors, processing scope, locations, and sharing details.",
+    "version": "1.0"
+  },
+
+  {
+    "node_id": "CIT:DPDP-011",
+    "node_type": "CITATION",
+    "key": "DPDP-011",
+    "source": "DPDP Act 2023",
+    "statute_reference": "Notice",
+    "note": "Privacy notice disclosures",
+    "version": "1.0"
+  },
+  {
+    "node_id": "CIT:DPDP-012",
+    "node_type": "CITATION",
+    "key": "DPDP-012",
+    "source": "DPDP Act 2023",
+    "statute_reference": "Grievance redressal",
+    "note": "Grievance mechanism obligations",
+    "version": "1.0"
+  },
+  {
+    "node_id": "CIT:DPDP-015",
+    "node_type": "CITATION",
+    "key": "DPDP-015",
+    "source": "DPDP Act 2023",
+    "statute_reference": "Data Principal rights",
+    "note": "Mechanism for exercising rights",
+    "version": "1.0"
+  },
+  {
+    "node_id": "CIT:DPDP-019",
+    "node_type": "CITATION",
+    "key": "DPDP-019",
+    "source": "DPDP Act 2023",
+    "statute_reference": "Right to erasure",
+    "note": "Erasure obligations subject to retention",
+    "version": "1.0"
+  },
+  {
+    "node_id": "CIT:DPDP-021",
+    "node_type": "CITATION",
+    "key": "DPDP-021",
+    "source": "DPDP Act 2023",
+    "statute_reference": "Security safeguards",
+    "note": "Reasonable security safeguards",
+    "version": "1.0"
+  },
+  
+  {
+    "node_id": "CIT:DPDP-013",
+    "node_type": "CITATION",
+    "key": "DPDP-013",
+    "source": "DPDP Act 2023",
+    "statute_reference": "TBD",
+    "note": "Add section/rule reference",
+    "version": "1.0"
+  },
+
+  {
+    "node_id": "CIT:DPDP-014",
+    "node_type": "CITATION",
+    "key": "DPDP-014",
+    "source": "DPDP Act 2023",
+    "statute_reference": "TBD",
+    "note": "Add section/rule reference",
+    "version": "1.0"
+  },
+
+  {
+    "node_id": "CIT:DPDP-016",
+    "node_type": "CITATION",
+    "key": "DPDP-016",
+    "source": "DPDP Act 2023",
+    "statute_reference": "TBD",
+    "note": "Add section/rule reference",
+    "version": "1.0"
+  },
+
+  {
+    "node_id": "CIT:DPDP-017",
+    "node_type": "CITATION",
+    "key": "DPDP-017",
+    "source": "DPDP Act 2023",
+    "statute_reference": "TBD",
+    "note": "Add section/rule reference",
+    "version": "1.0"
+  },
+
+  {
+    "node_id": "CIT:DPDP-018",
+    "node_type": "CITATION",
+    "key": "DPDP-018",
+    "source": "DPDP Act 2023",
+    "statute_reference": "TBD",
+    "note": "Add section/rule reference",
+    "version": "1.0"
+  },
+
+  {
+    "node_id": "CIT:DPDP-020",
+    "node_type": "CITATION",
+    "key": "DPDP-020",
+    "source": "DPDP Act 2023",
+    "statute_reference": "TBD",
+    "note": "Add section/rule reference",
+    "version": "1.0"
+  }
+  
+]
